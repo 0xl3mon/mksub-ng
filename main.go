@@ -13,7 +13,7 @@ import (
 	"sync"
 	"syscall"
 
-	roundChan "github.com/trickest/mksub/round"
+	roundChan "github.com/0xl3mon/mksub-ng/round"
 )
 
 const (
